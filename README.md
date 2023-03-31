@@ -1,16 +1,25 @@
-# p5_dart2
 
-A new Flutter project.
+https://user-images.githubusercontent.com/78636409/229203009-f8162f43-51f6-45dd-9169-807e784a6351.mp4
 
-## Getting Started
+## bouncing_ball
 
-This project is a starting point for a Flutter application.
+This is a simple Flutter application that creates a bouncing ball using the p5.dart library. The p5.dart library is a Dart implementation of the p5.js library, which is a JavaScript library for creative coding.
 
-A few resources to get you started if this is your first Flutter project:
+### Installation and Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To use this application, you need to have Flutter installed on your system. You can install Flutter by following the instructions on the Flutter website.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Once you have Flutter installed, you can clone this repository and open it in your favorite editor. Then, run the following command to install the p5.dart library:
+
+```sh
+flutter pub get
+```
+
+### Running the Application
+
+To run the application, you can use the following command:
+```sh
+flutter run
+```
+
+This will start the Flutter application and you should see a bouncing ball on the screen. You can experiment with the code and modify the ball's behavior to your liking.
